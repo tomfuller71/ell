@@ -1,0 +1,7 @@
+openai
+python-dotenv
+jupyter
+ipython
+ell-ai
+anthropic
+pydantic
