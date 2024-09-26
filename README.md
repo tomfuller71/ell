@@ -16,6 +16,6 @@ Place any LLM provider API keys in a .env file.
 
 To run the studio and see the stored functions and results:
 ```
-ell-studio --storage ./logdir
+ell-studio --storage ./ell-store
 ```
 The studio can then be viewed on http://localhost:5555.
